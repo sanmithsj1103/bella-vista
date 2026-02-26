@@ -1,11 +1,11 @@
 # Bella Vista 🏡
 
-Welcome to the **Bella Vista** project! This is my very first web development project, built using **HTML** and **CSS**. It is a landing page designed for a luxury villa/residential project.
+Welcome to the **Bella Vista** project! This is my very first web development project, built using **HTML** and **CSS**. It is a landing page designed for a luxury Italian Restaurant project.
 
 ---
 
 ## 🚀 Project Overview
-The goal of this project was to learn the fundamentals of web structure (HTML) and styling (CSS). It features a clean layout to showcase property details, amenities, and a contact section.
+The goal of this project was to learn the fundamentals of web structure (HTML) and styling (CSS). It features a clean layout to showcase restaurant details, menu items, and a contact section.
 
 ---
 
@@ -13,8 +13,8 @@ The goal of this project was to learn the fundamentals of web structure (HTML) a
 - **Responsive Design:** Basic layout structure.
 - **Navigation Bar:** Easy access to different sections of the page.
 - **Hero Section:** An attractive introduction with a background image.
-- **Amenities Section:** Highlighting the key features of the property.
-- **Contact Form:** A simple UI for user inquiries.
+- **Menu Section:** Highlighting the key features of the restaurant.
+- **Contact Form:** A simple UI for user inquiries and reservations.
 
 ---
 
@@ -27,7 +27,7 @@ The goal of this project was to learn the fundamentals of web structure (HTML) a
 ## 📂 How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/sanmithsj1103/bella-vista.git](https://github.com/sanmithsj1103/bella-vista.git)
+   git clone https://github.com/sanmithsj1103/bella-vista.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -45,7 +45,7 @@ The goal of this project was to learn the fundamentals of web structure (HTML) a
 ---
 
 ## 📝 Learning Journey
-- This project helped me understand:
+This project helped me understand:
 - How to structure elements with HTML.
 - How to use CSS Flexbox/Grid for layout.
 - How to link external CSS files.
